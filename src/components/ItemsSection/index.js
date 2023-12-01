@@ -93,7 +93,7 @@ const ItemsSection = () => (
         <Para>Edit</Para>
       </ListItemDetails>
       <ListItemDetails>
-      <ItemImages src="https://m.media-amazon.com/images/I/61OjKVwwdBL.jpg" />
+        <ItemImages src="https://m.media-amazon.com/images/I/61OjKVwwdBL.jpg" />
         <Para>
           The redefinition of the mole in 2019, as being <br /> the amount of
         </Para>
